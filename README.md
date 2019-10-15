@@ -44,22 +44,22 @@ that set visibility of next frame ‘true’ and closes the current frame by set
 
 When user click on any one of the button in main frame, they all have one separate key that describes its information to next frame. In next frame as per their key , sorting algorithm will be executed after user give input to input area and click submit button. Sorted integer array will be display in output area. 
 
-# Snapshots of running application
+# 4.	Snapshots of running application
 
-a.MAIN FRAME
+a. MAIN FRAME
 
-    ![image](https://user-images.githubusercontent.com/47125158/66868811-aeace500-efbb-11e9-9270-416c6be1db16.png) 
+![](Images/Main.PNG) 
 
-b.SECOND FRAME DO SORTING OF INPUT ARRAY
+b. SECOND FRAME DO SORTING OF INPUT ARRAY
  
-    ![image](https://user-images.githubusercontent.com/47125158/66868871-cf753a80-efbb-11e9-98ef-3a793edc3683.png)
+![](Images/Frame.PNG)
 
 
-# 4.	Conclusion:
+# 5.	Conclusion:
 
 By implementing this project, we learned how to make graphical user interface based application software using java swing. We also used core concepts of java like inheritance , exception handling, process builder class. Projects like this helps us to develop our problem-solving skills by which we can also compete with others to stand out from the crowd.
 
-# 5.	References:
+# 6.	References:
 
 
 _1. The Complete Reference JAVA Seventh edition.
